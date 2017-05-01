@@ -1,0 +1,15 @@
+{
+  "name": "https-corrector",
+  "version": "1.0.0",
+  "description": "find and fix http:// in nested json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/fs-promise": "^1.0.3",
+    "fs-promise": "^2.0.2"
+  }
+}
